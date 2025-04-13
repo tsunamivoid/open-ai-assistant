@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Этот проект является тестовым заданием на позицию стажера Javascript в Касперский",
+  "description": "Этот проект является частью проектов для портфолио",
   "main": "source/main.js",
   "type": "module",
   "jest": {
